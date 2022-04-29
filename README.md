@@ -4,7 +4,7 @@
 # User Story
 As a user, I need the ability to save the qualifying loans to a CSV file so that I can share the results as a spreadsheet.
 
-# Acceptance Criteria
+## Acceptance Criteria
 Given that I’m using the loan qualifier CLI, when I run the qualifier, then the tool should prompt the user to save the results as a CSV file.
 Given that no qualifying loans exist, when prompting a user to save a file, then the program should notify the user and exit.
 Given that I have a list of qualifying loans, when I’m prompted to save the results, then I should be able to opt out of saving the file.
@@ -24,18 +24,12 @@ How to do it with just the command line
 
 1. Create a new repository on GitHub and initialize it with a README file
 2. Create a folder on your local machine
-3. Open terminal and move to that folder
-$ cd FOLDER
-4. Add the remote URL as origin
-$ git remote add origin https://github.com/mykalmorton/loan_qualifier_app_for_class.git
-5. Now using the pull command, you can ‘pull’ down the README file onto the local folder
-a. $ git pull origin master
-6. Add your current files in the local folder to the staging area
-a. $ git add –-all
-7. Commit your changes
-$ git commit -m "your commit message e.g. First commit"
-8. Push your changes to the master branch
-$ git push origin master
+3. Open terminal and move to that folder $ cd FOLDER
+4. Add the remote URL as origin $ git remote add origin https://github.com/mykalmorton/loan_qualifier_app_for_class.git
+5. Now using the pull command, you can ‘pull’ down the README file onto the local folder $ git pull origin master
+6. Add your current files in the local folder to the staging area $ git add –-all
+7. Commit your changes $ git commit -m "your commit message e.g. First commit"
+8. Push your changes to the master branch $ git push origin master
 
 ---
 
