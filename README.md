@@ -36,8 +36,21 @@ How to do it with just the command line
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+   Create a user dialog that prompts the user for whether they want to save their qualifying loans.
+   Use Questionary to prompt the user with .confirm.ask.
+```
+    ask_user_to_save = questionary.text("Do you want to save their qualifying loans [Yes] or [No]").ask()
+    if ask_user_to_save == 'yes' or ask_user_to_save == 'YES' or ask_user_to_save == 'y':
+    
+```
 
+   create a user dialog for the function that saves a CSV file.
+   Questionary to prompt the user, and ask for the output file path.
+   
+```
+        csvpath = questionary.text("Enter a file name (.csv):").ask()
+        csvpath = Path(path, csvpath)
+```
 ---
 
 ## Contributors
