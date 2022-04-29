@@ -1,0 +1,1033 @@
+   50  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   51  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   52  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Solved/nested_conditionals.py"
+   53  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   54  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   55  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   56  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   57  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   58  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   59  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   60  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   61  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   62  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   63  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+   64  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   65  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   66  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   67  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   68  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   69  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   70  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   71  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   72  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   73  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   74  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   75  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   76  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   77  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   78  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   79  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   80  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   81  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   82  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   83  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   84  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   85  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   86  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   87  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   88  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   89  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   90  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   91  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   92  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   93  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   94  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   95  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   96  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   97  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+   98  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Solved/split_second_homebuying.py"
+   99  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  100  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  101  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  102  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  103  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  104  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  105  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  106  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  107  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  108  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  109  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  110  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  111  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  112  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  113  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  114  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  115  /usr/bin/python3 Untitled-1
+  116  /usr/bin/python3 Untitled-1
+  117  /usr/bin/python3 Untitled-1
+  118  /usr/bin/python3 Untitled-1
+  119  /usr/bin/python3 Untitled-1
+  120  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/03_Split_Second_Homebuying/Solved/example.py"
+  121  ls
+  122  cd FinTech-workspace
+  123  ls
+  124  ls
+  125  cd Pyton_Project
+  126  ls
+  127  $ brew install git\n\n
+  128  conda deactivate
+  129  $ brew install git\n\n
+  130  conda activte dev
+  131  conda activate dev
+  132  pyton --ver
+  133  pyton --version
+  134  python --ver
+  135  python --version
+  136  code .
+  137  python hello_python.py
+  138  conda deactivate
+  139  conda activate dev
+  140  code .
+  141  ls
+  142  M1L3.py
+  143  hello_python.py
+  144  python M1L3.py
+  145  cd ..
+  146  ls
+  147  cd..
+  148  cd ..
+  149  ls
+  150  cd Public
+  151  ls
+  152  cd..
+  153  cd ..
+  154  ls
+  155  cd Desktop
+  156  ls
+  157  cd..
+  158  cd ..
+  159  ls
+  160  cd FinTech-workspace
+  161  ls
+  162  cd ..
+  163  cd Desktop
+  164  ls
+  165  cd test
+  166  deactivate 
+  167  coda deactivate
+  168  pip install jupyterlab
+  169  jupterlab
+  170  dev jupterlab
+  171  /Users/michaelmorton/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  172  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  173  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  174  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  175  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  176  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  177  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  178  /usr/bin/python3 -m pip install -U autopep8
+  179  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  180  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  181  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  182  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_1_Activities 2/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  183  /usr/bin/python3 "/Users/michaelmorton/Downloads/Class_1_Activities 2/05_Stu_ATM_Modularization/Unsolved/atm/atm.py"
+  184  /usr/bin/python3 "/Users/michaelmorton/Downloads/Class_1_Activities 2/05_Stu_ATM_Modularization/Unsolved/atm/atm.py"
+  185   /usr/bin/env /usr/bin/python3 /Users/michaelmorton/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49636 -- "/Users/michaelmorton/Downloads/Class_1_Activities 2/05_Stu_ATM_Modularization/Unsolved/atm/atm.py" 
+  186  conda activate dev 
+  187   /usr/bin/env /usr/bin/python3 /Users/michaelmorton/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49576 -- "/Users/michaelmorton/Downloads/Class_1_Activities 2/05_Stu_ATM_Modularization/Unsolved/atm/atm.py" 
+  188  conda activate dev
+  189  pip -V
+  190  pip freeze
+  191  pip install fire
+  192  pip install questionary
+  193  pip install PythonTurtle
+  194  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_1_Activities 2/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  195  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  196  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  197  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  198  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  199  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  200  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  201  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  202  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  203  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  204  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  205  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  206  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  207  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  208  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  209  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  210  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  211  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  212  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  213  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  214  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  215  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  216  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  217  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  218  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  219  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  220  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  221  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  222  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  223  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  224  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  225  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  226  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  227  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  228  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  229  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  230  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  231  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  232  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  233  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  234  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  235  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  236  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  237  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  238  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  239  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  240  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  241  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  242  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  243  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  244  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  245  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  246  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  247  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  248  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  249  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  250  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  251  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  252  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  253  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  254  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  255  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  256  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  257  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  258  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  259  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  260  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  261  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  262  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  263  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  264  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  265  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  266  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  267  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  268  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  269  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  270  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  271  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  272  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  273  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  274  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  275  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  276  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  277  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  278  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  279  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  280  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  281  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  282  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  283  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  284  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  285  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  286  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  287  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  288  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  289  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  290  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  291  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  292  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  293  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  294  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  295  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  296  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  297  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  298  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  299  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  300  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  301  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  302  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  303  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  304  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  305  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  306  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  307  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  308  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  309  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  310  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  311  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  312  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  313  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  314  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  315  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  316  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  317  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  318  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  319  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  320  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  321  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  322  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  323  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  324  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  325  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  326  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  327  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  328  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  329  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  330  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  331  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  332  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  333  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  334  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  335  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  336  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  337  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  338  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  339  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  340  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  341  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  342  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  343  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  344  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  345  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  346  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  347  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  348  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  349  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  350  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  351  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  352  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  353  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  354  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  355  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/loan_analyzer.py"
+  356  import fire
+  357  pip install fire
+  358  import fire
+  359  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  360  pip install fire
+  361  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  362  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  363  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  364  Conda activate dev 
+  365  conda init
+  366  pip install fire
+  367  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/hello_python.py
+  368  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  369  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  370  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  371  ls
+  372  Conda activate dev 
+  373  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  374  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/M1L3.py
+  375  Conda activate dev 
+  376  Conda activate dev 
+  377  pip install fire
+  378  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  379  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  380  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  381  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  382  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  383  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/dialog.py"
+  384  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/atm.py"
+  385  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  386  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  387  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  388  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  389  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  390  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  391  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  392  clear
+  393  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  394  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  395  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  396  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  397  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_2_Activities 2/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  398  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_2_Activities 2/02_Stu_Build_ATM_Functions/Unsolved/atm/utils.py"
+  399  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_2_Activities 2/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  400  la
+  401  ls
+  402  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_2_Activities 2/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  403  activate conda dev
+  404  activate conda dev
+  405  ls
+  406  touch test.txt
+  407  ls
+  408  rm test.txt
+  409  ls
+  410  pip install fire
+  411  import fire
+  412  pip install fire
+  413  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Class_1_Activities 2/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"ls
+  414  ls
+  415  cd FinTech-workspace
+  416  ls
+  417  cd Pyton_Project
+  418  pip install fire
+  419  python cli.py
+  420  python cli.py --pants=True
+  421  python cli.py --pants=True
+  422  python cli.py --pants=True
+  423  ls
+  424  cd ..
+  425  ls
+  426  cd ..
+  427  ls
+  428  cd Documents
+  429  ls
+  430  cd School\ Files
+  431  ls
+  432  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  433  ls
+  434  cd Unsolved
+  435  ls
+  436  py app.py
+  437  python app.py
+  438  python app.py
+  439  python app.py
+  440  python app.py
+  441  python app.py
+  442  conda activate dev
+  443  python app.py
+  444  python app.py
+  445  python app.py
+  446  python app.py--credit_score 750
+  447  python app.py--credit_score=750
+  448  python app.py
+  449  python app.py--credit_score=750
+  450  python app.py --credit_score=750
+  451  python app.py --credit_score=750 --debt=5000 --income=2000
+  452  python app.py --credit_score=750 --debt=5000 --income=50000
+  453  pip install questionary
+  454  cd ..
+  455  cd .,.
+  456  cd ..
+  457  ls
+  458  python dialog.py
+  459  python dialog.py
+  460  python dialog.py
+  461  python dialog.py
+  462  python dialog.py
+  463  python dialog.py
+  464  cd 02_Adding_questionary_to_Loan_Qualifier
+  465  python app.py --credit_score=750 --debt=5000 --income=20000
+  466  python app.py --credit_score=750 --debt=5000 --income=20000
+  467  pip install questionary
+  468  python app.py --credit_score=750 --debt=5000 --income=20000
+  469  python app.py --credit_score=750 --debt=5000 --income=20000
+  470  ls
+  471  cd Unsolved
+  472  python app.py --credit_score=750 --debt=5000 --income=20000
+  473  python app.py --credit_score=750 --debt=5000 --income=20000
+  474  python app.py --credit_score=750 --debt=5000 --income=20000
+  475  python app.py --credit_score=750 --debt=5000 --income=20000
+  476  python app.py 
+  477  cd ..
+  478  cd ,
+  479  cd .
+  480  cd ..
+  481  cd ..
+  482  git https://github.com/mykalmorton/restaurant-app.git
+  483  pip install https://github.com/mykalmorton/restaurant-app.git
+  484  git config --global user.name Michael Morton
+  485  git config --global user.email mydates@gmail.com
+  486  git config --list
+  487  run python
+  488  run python
+  489  --version
+  490  -V
+  491   -vv
+  492  -V
+  493  sys
+  494  conda activate atmdev
+  495  conda deactivate conda
+  496  conda deactivate
+  497  conda activate atmdev
+  498  conda activate dev
+  499  ls
+  500   cd..
+  501  cd ..
+  502  ls
+  503  cd Documents
+  504  ls
+  505  cd School\ Files
+  506  ls
+  507  ls
+  508  cd Class_2_Activities
+  509  ls
+  510  cd ..
+  511  ls
+  512  ls
+  513  ls ?
+  514  git branch
+  515  ls
+  516  cd C
+  517  cd Cls
+  518  ls
+  519  cd ..
+  520  ls
+  521  cd School\ Files
+  522  ls
+  523  cd ..
+  524  cd..
+  525  cd ..
+  526  las
+  527  ls
+  528  cd D
+  529  cd Documents
+  530  ls
+  531  cd School\ Files
+  532  LS
+  533  ls
+  534  cd Sch
+  535  ls
+  536  cd Starter_Code
+  537  ls
+  538  cd Challenges
+  539  ls
+  540  cls
+  541  clear
+  542  ls
+  543  python loan_analyzer.py
+  544  ls
+  545  py loan_analyzer.py
+  546  python loan_analyzer.py
+  547  cd
+  548  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  549  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  550  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  551  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  552  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  553  clear
+  554  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  555  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  556  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  557  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  558  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  559  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  560  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  561  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  562  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  563  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  564  LS
+  565  CD ..
+  566  LS
+  567  \tCD ..
+  568  LS
+  569  ls
+  570  cd ..
+  571  ls
+  572  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  573  ls
+  574  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  575  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  576  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  577  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/script.py"
+  578  clear
+  579  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/script.py"
+  580  ls
+  581  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/script.py"
+  582  ls
+  583  cd Starter_Code
+  584  ls
+  585  cd Challenges
+  586  lks
+  587  ls
+  588  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"/usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  589  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  590  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  591  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  592  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/script.py"
+  593  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/script.py"
+  594  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  595  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  596  clear
+  597  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  598  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  599  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  600  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  601  clear
+  602  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  603  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  604  /usr/bin/python3 /Users/michaelmorton/FinTech-workspace/Pyton_Project/cli.py
+  605  /usr/bin/python3 Untitled-1
+  606  /usr/bin/python3 Untitled-1
+  607  /usr/bin/python3 Untitled-1
+  608  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  609  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  610  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  611  clear
+  612  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  613  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  614  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  615  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  616  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  617  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  618  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  619  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  620  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  621  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  622  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  623  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  624  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  625  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  626  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  627  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  628  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  629  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  630  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  631  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  632  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet"
+  633  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  634  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  635  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  636  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  637  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  638  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  639  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  640  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  641  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  642  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  643  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  644  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  645  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  646  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  647  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  648  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  649  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  650  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  651  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  652  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  653  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  654  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  655  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  656  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  657  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  658  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  659  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  660  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  661  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  662  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  663  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  664  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  665  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  666  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  667  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  668  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  669  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  670  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  671  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  672  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  673  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  674  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  675  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  676  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  677  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  678  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  679  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  680  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  681  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  682  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  683  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  684  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  685  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  686  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  687  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  688  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  689  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  690  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  691  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  692  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  693  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  694  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  695  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  696  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  697  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  698  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  699  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  700  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  701  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  702  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  703  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  704  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  705  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  706  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  707  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  708  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  709  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  710  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  711  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  712  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  713  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  714  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  715  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  716  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  717  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  718  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  719  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  720  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  721  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  722  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  723  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  724  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  725  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  726  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  727  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  728  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  729  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  730  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  731  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  732  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  733  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  734  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  735  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  736  clear
+  737  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  738  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  739  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  740  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  741  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  742  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  743  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  744  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  745  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  746  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  747  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  748  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  749  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  750  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  751  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  752  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  753  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  754  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  755  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  756  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  757  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  758  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  759  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  760  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  761  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  762  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  763  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  764  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  765  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  766  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/loan_analyzer.py"
+  767   /usr/bin/env /usr/bin/python3 /Users/michaelmorton/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 61762 -- "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet" 
+  768   cd "/Users/michaelmorton/Documents/School Files/Starter_Code" ; /usr/bin/env /usr/bin/python3 /Users/michaelmorton/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 61769 -- "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Example worksheet" 
+  769  git clone https://github.com/mykalmorton/MemoryGame.git
+  770  ls
+  771  git status
+  772  ls
+  773  cd Challenges
+  774  ls
+  775  git status
+  776  /usr/bin/python3 Untitled-1
+  777  /usr/bin/python3 "/Users/michaelmorton/FinTech-workspace/Pyton_Project/Apr 26 class/April 26 import example"
+  778  /usr/bin/python3 "/Users/michaelmorton/FinTech-workspace/Pyton_Project/Apr 26 class/April 26 import example"
+  779  python -m pip install panda
+  780  /usr/bin/python3 "/Users/michaelmorton/FinTech-workspace/Pyton_Project/Apr 26 class/April 26 import example"
+  781  /usr/bin/python3 "/Users/michaelmorton/FinTech-workspace/Pyton_Project/Apr 26 class/April 26 import example"
+  782  python -m pip install panda
+  783  /usr/bin/python3 "/Users/michaelmorton/FinTech-workspace/Pyton_Project/Apr 26 class/April 26 import example"
+  784  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Starter_Code 2/loan_qualifier_app/app.py"
+  785  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Starter_Code 2/loan_qualifier_app/app.py"
+  786  pip install fire
+  787  pip install fire
+  788  pip install questionary
+  789  ls
+  790  /usr/bin/python3 "/Users/michaelmorton/Documents/School Files/Starter_Code/Challenges/Starter_Code_2/loan_qualifier_app/app.py"
+  791  conda activate dev
+  792  pip install jupyterlab
+  793  jupyter-lab
+  794  juypter -lab
+  795  jupyter-lab
+  796  conda dev
+  797  conda dev
+  798  conda env
+  799  ls
+  800  cd FinTech-workspace
+  801  ls
+  802  cd p
+  803  cd Pyton_Project
+  804  ls
+  805  cd..
+  806  cd..
+  807  ls
+  808  cd ..
+  809   cd ..
+  810  ls
+  811  cd Desktop
+  812  ls
+  813  ls ?
+  814  ls -w
+  815  cd ..
+  816  ls
+  817  cd Documents
+  818  ls
+  819  cd ..
+  820  ls
+  821  cd ..,
+  822  ls
+  823  cd Public
+  824  ls
+  825  cd ..
+  826  cd Library
+  827  ls
+  828  cd Sls
+  829  cd ..
+  830  ls
+  831  cd Desktop
+  832  ls
+  833  cd Test\ Env
+  834  ls
+  835  cd Shared
+  836  ls
+  837  cd l..
+  838  cd ..
+  839  ls
+  840  cd ..
+  841  ls
+  842  cd ..
+  843  ls
+  844  cd Documents
+  845  ls
+  846  cd School\ Files
+  847  ls
+  848  cd ..
+  849  ls
+  850  ls
+  851  cd School\ Files
+  852  ls
+  853  cd Starter_Code
+  854  ls
+  855  cd Challenges
+  856  ls
+  857  cd Starter_Code 2
+  858  ls
+  859  cd Starter_Code2
+  860  cd Starter_Code 2
+  861  cd Starter_Code_2
+  862  ls
+  863  cd loan_qualifier_app
+  864  ls
+  865  conda --version
+  866  conda update conda
+  867  conda actiave
+  868  conda activate
+  869  conda activate dev
+  870  py app.py
+  871  ls
+  872  python app.py
+  873  clear
+  874  python app.py
+  875  python app.py
+  876  python app.py
+  877  python app.py
+  878  cd ..
+  879  ls
+  880  cd a
+  881  cd loan_qualifier_app
+  882  ls
+  883  pyton app.p
+  884  pyton app.py
+  885  python app.py
+  886  python app.py
+  887  python app.py
+  888  python app.py
+  889  python app.py
+  890  python app.py
+  891  python app.py
+  892  python app.py
+  893  python app.py
+  894  python app.py
+  895  python app.py
+  896  python app.py
+  897  python app.py
+  898  python app.py
+  899  python app.py
+  900  python app.py
+  901  ls
+  902  cd..
+  903  cd ..
+  904  ls
+  905  cs ..
+  906  cd ..
+  907  ls
+  908  cd Starter_Code_2
+  909  ls
+  910  cd ..
+  911  cd Starter_Code
+  912  ls
+  913  cd loan_qualifier_app
+  914  ls
+  915  ls
+  916   cd..
+  917  ls
+  918  cd ..
+  919  ls
+  920  cd ..
+  921  ls
+  922  ls
+  923  cd Starter_Code
+  924  ls
+  925  cd ..
+  926  ls
+  927  cd Starter_Code_2
+  928  ls
+  929  cd loan_qualifier_app
+  930  LS
+  931  \tls
+  932  cd ..
+  933  ls
+  934  cd .,
+  935  cd ..
+  936  ls
+  937  cd Starter_Code
+  938  ls
+  939  cd ..
+  940  ls
+  941  cd .l
+  942  cd ..
+  943  ls
+  944  cd Starter_Code
+  945  cd ..
+  946  cd Starter_Code
+  947  ls
+  948  cd Starter_Code_New
+  949  ls
+  950  cd loan_qualifier_app_for_class
+  951  ls
+  952  pyton app.py
+  953  python app.py
+  954  python app.py
+  955  python app.py
+  956  python app.py
+  957  python app.py
+  958  python app.py
+  959  python app.py
+  960  python app.py
+  961  python app.py
+  962  python app.py
+  963  python app.py
+  964  cls
+  965  clear
+  966  deactivate conda env
+  967  conda deactivate
+  968  activate cond dev
+  969  activate cond 
+  970  activate conda dev
+  971  activate conda
+  972  dev actiave conda
+  973  python app.py
+  974  activate conda dev
+  975  dev conda activate
+  976  conda dev activate
+  977  conda env
+  978  conda
+  979  activate conda
+  980  activate conda env
+  981  conda activate
+  982  conda activate env
+  983  conda activate env 
+  984  conda activate
+  985  dev conda activate
+  986  conda activate dev
+  987  clear
+  988  python app.py
+  989  python app.py
+  990  python app.py
+  991  python app.py
+  992  python app.py
+  993  python app.py
+  994  cd ..
+  995  ls
+  996  ls
+  997  cd loan_qualifier_app_for_class
+  998  ls
+  999  cd app.py
+ 1000  python app.py
+ 1001  activate conda dev
+ 1002  dev
+ 1003  activate conda dev
+ 1004  conda activate dev
+ 1005  ls
+ 1006  cd Dcd Documents
+ 1007  ls
+ 1008  cd D
+ 1009  cd Documents
+ 1010  ls
+ 1011  cd School\ Files
+ 1012  ls
+ 1013  cd Starter_Code
+ 1014  ls
+ 1015  cd Starter_Code
+ 1016  ls
+ 1017  cd loan_qualifier_app_for_class
+ 1018  ls
+ 1019  pyton app.py
+ 1020  ls
+ 1021  python app.py
+ 1022  python app.py
+ 1023  python app.py
+ 1024  python app.py
+ 1025  python app.py
+ 1026  ls
+ 1027  cd
+ 1028  ls
+ 1029  cd Do
+ 1030  cd Doc
+ 1031  cd Documents
+ 1032  ls
+ 1033  cd School\ Files
+ 1034  ls
+ 1035  cd Starter_Code
+ 1036  ls
+ 1037  cd Starter_Code_
+ 1038  cd Starter_Code_New
+ 1039  ls
+ 1040  cd loan_qualifier_app_for_class
+ 1041  ls
+ 1042  python app.py
+ 1043  python app.py
+ 1044  python app.py
+ 1045  python app.py
+ 1046  python app.py
+ 1047  python app.py
+ 1048  python app.py
+ 1049  python app.py
+ 1050  python app.py
+ 1051  python app.py
+ 1052  python app.py
+ 1053  python app.py
+ 1054  python app.py
+ 1055  python app.py
+ 1056  python app.py
+ 1057  jupyter lab
+ 1058  clear
+ 1059  cd..
+ 1060  ls
+ 1061  cd ..
+ 1062  ls
+ 1063  cd ..
+ 1064  ls
+ 1065  cd .
+ 1066  cd ..
+ 1067  cd \..
+ 1068  ls
+ 1069  cd FinTech\ Class\ Projects
+ 1070  LS
+ 1071  CD loan_qualifier_app_for_class
+ 1072  ls
+ 1073  cd loan_qualifier_app_for_class
+ 1074  LS
+ 1075  python app.py
+ 1076  clear
+ 1077  python app.py
+ 1078  clear
+ 1079  python
+ 1080  clear
+ 1081  python app.py
+ 1082  terminal_history.txt

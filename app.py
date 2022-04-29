@@ -116,22 +116,27 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+
+    # Create a user dialog that prompts the user for whether they want to save their qualifying loans.
+    # Use Questionary to prompt the user with .confirm.ask.
+
     ask_user_to_save = questionary.text("Do you want to save their qualifying loans [Yes] or [No]").ask()
     if ask_user_to_save == 'yes' or ask_user_to_save == 'YES' or ask_user_to_save == 'y':
         out_path = input('Enter the path to save the files ')
         path = os.path.normpath(out_path)
         os.mkdir(path)
 
-
+        # create a user dialog for the function that saves a CSV file.
+        # Questionary to prompt the user, and ask for the output file path.
         csvpath = questionary.text("Enter a file name (.csv):").ask()
         csvpath = Path(path, csvpath)
-        #print(qualifying_loans)
+        # print(qualifying_loans)
         # print(type (qualifying_loans))
         
         header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
         rows = qualifying_loans 
-        #print(data)
-        #csvpath = Path("my_output.csv") 
+        # print(data)
+        # csvpath = Path("my_output.csv") 
 
   
 
@@ -145,6 +150,7 @@ def save_qualifying_loans(qualifying_loans):
   
 
         csvfile.close()
+
     else:
         print(f"Thank You")
         header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
@@ -170,7 +176,7 @@ def run():
     )
 
     # Save qualifying loans
-    #print(qualifying_loans)
+    # print(qualifying_loans)
     # print(type (qualifying_loans))
     save_qualifying_loans(qualifying_loans)
 
