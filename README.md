@@ -17,7 +17,7 @@ Given that I’m using the loan qualifier CLI, when I choose to save the loans, 
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Python , CLI
 
 ---
 
@@ -40,6 +40,7 @@ How to do it with just the command line
 
    Create a user dialog that prompts the user for whether they want to save their qualifying loans.
    Use Questionary to prompt the user with .confirm.ask.
+   
 ```
     ask_user_to_save = questionary.text("Do you want to save their qualifying loans [Yes] or [No]").ask()
     if ask_user_to_save == 'yes' or ask_user_to_save == 'YES' or ask_user_to_save == 'y':
